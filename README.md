@@ -9,7 +9,7 @@
 ### 📫 Contact Me
 
 <p align="left">
-  <a href="https://t.me/wingchunwong111"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/WongWingChun"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="mailto:lshengevery@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <img src="https://img.shields.io/badge/QQ-2750821684-0099FF?style=flat&logo=tencentqq&logoColor=white" alt="QQ" />
 </p>
