@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm ChouChiu</h1>
 <h3 align="center">A student from Hong Kong</h3>
 
-- 🔭 I’m currently working on [My Website](https://github.com/ChouChiu/My-WebSite), [MicYou](https://github.com/LanRhyme/MicYou) and [Website-MicYou](https://github.com/LanRhyme/Website-MicYou)
-- 💬 Ask me about **AI**/**Vibe Coding**
+<ul>
+  <li>🔭 I’m currently working on <a href="https://github.com/ChouChiu/My-WebSite" target="_blank" rel="noopener noreferrer">My Website</a>, <a href="https://github.com/LanRhyme/MicYou" target="_blank" rel="noopener noreferrer">MicYou</a> and <a href="https://github.com/LanRhyme/Website-MicYou" target="_blank" rel="noopener noreferrer">Website-MicYou</a></li>
+  <li>💬 Ask me about <strong>AI</strong>/<strong>Vibe Coding</strong></li>
+</ul>
 
----
+<hr>
 
-### 📫 Contact Me
+<h3>📫 Contact Me</h3>
 
 <p align="left">
   <a href="https://t.me/WongWingChun"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
@@ -14,9 +16,9 @@
   <img src="https://img.shields.io/badge/QQ-2750821684-0099FF?style=flat&logo=tencentqq&logoColor=white" alt="QQ" />
 </p>
 
----
+<hr>
 
-### ⚡ GitHub Stats
+<h3>⚡ GitHub Stats</h3>
 
 <table>
   <tr>
