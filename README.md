@@ -18,12 +18,8 @@
 
 <hr>
 
-<h3>⚡ GitHub Stats</h3>
+<h3>⚡ GitHub Insights</h3>
 
-<table>
-  <tr>
-    <td><img src="https://grs.wing111.dpdns.org/api?username=ChouChiu&layout=compact&theme=dark&show_icons=true" alt="wingchunwong stats" height="140px" /></td>
-    <td><img src="https://grs.wing111.dpdns.org/api/top-langs/?username=ChouChiu&layout=compact&theme=dark&show_icons=true" alt="wingchunwong toplangs" height="140px" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ChouChiu&theme=dark" alt="GitHub Streak" height="140px" /></td>
-  </tr>
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=ChouChiu&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </div>
