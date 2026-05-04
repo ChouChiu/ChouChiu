@@ -20,6 +20,6 @@
 
 <h3>⚡ GitHub Insights</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://yourinsights.vercel.app/api/insight?username=ChouChiu&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </div>
